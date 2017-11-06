@@ -1,0 +1,8 @@
+com.example.stockexchange
+com.example.stockexchange.configuration.db
+com.example.stockexchange.domain
+com.example.stockexchange.exchanger
+com.example.stockexchange.messages
+com.example.stockexchange.repository
+com.example.stockexchange.seeder
+com.example.stockexchange.service
