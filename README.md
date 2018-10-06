@@ -1,4 +1,4 @@
 
-is a sample application to create and test sprint boot,
+is a sample application to create and test spring boot,
 
-we have a simple web service to get and set stock market changes and displaying the logs.
+a simple web service to get and set stock market changes and displaying the logs.
